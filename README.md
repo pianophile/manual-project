@@ -1,7 +1,7 @@
 Gokulam Speed and Safe – Functional Testing Project
 -----------------------------------------------------
-This repository showcases the functional testing work carried out on the Gokulam Speed and Safewebsite. The goal of this project was to verify key features of the application, identify defects, 
-and ensure the site delivers a smooth user experience.
+This repository showcases the functional testing work carried out on the Gokulam Speed and Safe website. The goal of this project was to verify key features of the application, identify defects, 
+and ensure the site works properly.
 
 Project Highlights
 ------------------
